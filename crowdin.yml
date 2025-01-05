@@ -3,4 +3,3 @@ files:
     translation: /public/locale/%two_letters_code%/%original_file_name%
 bundles:
   - 2
-
